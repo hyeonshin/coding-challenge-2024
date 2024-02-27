@@ -1,4 +1,4 @@
-//Coding challenge codewars day (16/366)
+//Coding challenge codewars day (17/366)
 //8 Kyu
 // https://www.codewars.com/kata/54edbc7200b811e956000556/train/javascript
 
